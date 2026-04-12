@@ -20,16 +20,6 @@ O app funciona **imediatamente** sem configuração adicional!
 
 ---
 
-### Opção 2: Com Firebase (Backup na Nuvem)
-✅ Backup automático na nuvem  
-✅ Recuperação de dados após reinstalação  
-⏱️ Requer 15 minutos de configuração
-
-**Como configurar:**
-Siga o guia completo em **[FIREBASE_SETUP.md](./FIREBASE_SETUP.md)**
-
----
-
 ## 📋 Recursos Principais
 
 ### 🦎 Modo Camaleão
