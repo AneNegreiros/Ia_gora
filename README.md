@@ -83,7 +83,7 @@ Acesse em: `http://localhost:5173`
 
 | Papel | Nome |
 |-------|------|
-| 🎨 UX | [Ane Freitas](https://www.linkedin.com/in/anefreitas/) |
+| 🎨 UX e Dados| [Ane Freitas](https://www.linkedin.com/in/anefreitas/) |
 | 🔒 Dev 1 | [Jessica Pereira](https://www.linkedin.com/in/jessiepsx/) |
 | 💻 Dev 2 | [Bruna Prado](https://www.linkedin.com/in/brunalimaprado/) |
 | 🤖 Dev 3 | [Joana Carolina](https://www.linkedin.com/in/joanacarol/) |
